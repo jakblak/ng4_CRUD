@@ -1,4 +1,4 @@
-## Starting Point for Developing Angular Apps
+## CRUD Example Project  -  FINISHED
 
 ### Running the Project
 1) Open a command prompt in the project's root directory
